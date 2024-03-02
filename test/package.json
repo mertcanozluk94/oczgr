@@ -1,0 +1,28 @@
+{
+  "name": "yarakkafazgr",  
+  "version": "1.0.2",
+  "description": "oczgr test project ", 
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/HerculesNode/oczgr.git"
+   },
+    "keywords": [
+    "test",     
+    "proje",    
+    "matsh"     
+  ],
+  "dependencies": {
+    "express":"latest",
+    "ejs":"latest"
+  },
+  "author": "oczgr",  
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mertcanozluk94/test/issues" 
+  },
+  "homepage": "https://github.com/mertcanozluk94/test#readme" 
+}
